@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "nodemon bot.js"
+  },
+
+  "dependencies": {
+    "@ngrok/ngrok": "^1.2.0",
+    "express": "^4.19.2",
+    "node-telegram-bot-api": "^0.65.1",
+    "nodemon": "^3.1.0"
+  }
+}

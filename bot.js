@@ -1,17 +1,17 @@
 const TelegramBot = require('node-telegram-bot-api')
 const token = "7111368784:AAGA2I0HCn0-RMnPQBW2uQ8_Iq7PyNWi1zY"
 
-const express = require('express');
-const app = express();
+// const express = require('express');
+// const app = express();
 
-app.get('/', (req, res) => {
-    res.send("Server Running")
-}) 
+// app.get('/', (req, res) => {
+//     res.send("Server Running")
+// }) 
 
-const port = 5000
-app.listen(port, () => {
-    console.log("server running on port 3000")
-})
+// const port = 5000
+// app.listen(port, () => {
+//     console.log("server running on port 3000")
+// })
 
 
 
